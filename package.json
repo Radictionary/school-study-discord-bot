@@ -1,0 +1,22 @@
+{
+  "name": "school_study_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Radin Khosraviani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.4",
+    "nodemon": "^3.0.3",
+    "postgres": "^3.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
